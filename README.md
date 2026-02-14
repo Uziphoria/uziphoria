@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJkcW94MXF4Ynd3YnkzOGF1bnh5aWJ3bnd3YnkzOGF1bnh5aWJ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BCGgKB5VzUZkvIgwJF/giphy.gif" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Profile Banner Animation" />
+  <img src="file:///Users/mymac/Downloads/_.gif" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Profile Banner Animation" />
 </div>
 <br/>
 
