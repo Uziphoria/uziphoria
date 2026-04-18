@@ -6,11 +6,6 @@ Saya seorang pengembang web yang berfokus pada **Node.js** dan desain antarmuka 
 
 ---
 
-### 🔭 Apa yang sedang saya kerjakan
-- Mengembangkan platform sosial untuk pecinta film dan anime (seperti Letterboxd) menggunakan **Node.js**.
-- Bereksperimen dengan desain UI modern ("Liquid Glass" & elemen bercahaya).
-- Membuat desain grafis dan manipulasi aset digital.
-
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
