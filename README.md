@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full Stack Developer & UI/UX Enthusiast
 
-Saya seorang pengembang web yang berfokus pada **Node.js** dan desain antarmuka modern. Saya senang menggabungkan kode backend yang efisien dengan estetika UI yang menarik seperti *Glassmorphism* dan animasi interaktif.
+I'm an Information Systems student passionate about Full-Stack Development, building complete web applications from intuitive front-end interfaces to robust back-end systems. I enjoy turning ideas into scalable, efficient, and user-focused solutions using modern technologies. Constantly exploring new tools and frameworks, I love creating impactful projects and delivering seamless digital experiences. Check out my repos and let’s build something amazing together 🚀
 
 ---
 
